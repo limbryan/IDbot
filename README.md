@@ -1,2 +1,2 @@
-# IDbot
-ID photo-taking part of the 3rd year Design, Make and Test (ME3-DMT) group project at Imperial College London
+# About IDbot
+IDbot is a project a self-proposed project part of the 3rd year Design, Make and Test (ME3-DMT) group project at Imperial College London. The DMT project is a realistic engineering project with rigorous time and budget constraint that spans throughout the academic year. A brief description of the inspiration and some features on this project ca be found in the project proposal document [here]().
